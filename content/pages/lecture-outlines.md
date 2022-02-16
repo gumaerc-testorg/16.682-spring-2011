@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Outlines
 uid: 91fc667c-8e95-065c-96e7-2fe8e297356c
 ---

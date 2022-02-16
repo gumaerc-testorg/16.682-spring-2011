@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b6d1b987-c001-7650-40c4-5644d50231a5
 ---
@@ -54,7 +56,7 @@ There will be two in-class exams. They are scheduled before Lec #15 and Lec #25 
 In-class Presentations
 ----------------------
 
-There will be two types of presentations - short in-class presentations (< 3min, one PowerPoint slide) of an interesting practical application of the topic covered in the previous lecture and a final presentation (20min slides, 10min Q&A) predicting future developments of each major type of transportation covered (road, water, rail, air).
+There will be two types of presentations - short in-class presentations (\< 3min, one PowerPoint slide) of an interesting practical application of the topic covered in the previous lecture and a final presentation (20min slides, 10min Q&A) predicting future developments of each major type of transportation covered (road, water, rail, air).
 
 Grading
 -------
@@ -76,7 +78,7 @@ PERCENTAGES
 {{< tdopen >}}
 Homework and class work breakdown:
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 45%
 {{< tdclose >}}
 
