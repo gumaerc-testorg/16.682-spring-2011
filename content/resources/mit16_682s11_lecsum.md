@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Outlines
 parent_type: CourseSection
+parent_uid: 91fc667c-8e95-065c-96e7-2fe8e297356c
 resourcetype: Document
 title: Lecture Outlines
 uid: 777e5e4e-7dc3-e45a-0695-6a9a9657e213
