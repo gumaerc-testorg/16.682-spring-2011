@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course along
+  with solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -32,10 +34,10 @@ SOLUTIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_682s11_ques1))
+({{% resource_link 35c18b1f-65f7-812a-fe05-63c7065f02cc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_682s11_soln1))
+({{% resource_link 0c67ac45-5019-15cb-d3d6-1b8ef0a7e321 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,10 +46,10 @@ SOLUTIONS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_682s11_ques2))
+({{% resource_link 8f988905-b741-28db-2d71-b9bc1ee718de "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_682s11_soln2))
+({{% resource_link a224aa6d-65b2-7884-8179-4038389a69bf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,10 +58,10 @@ SOLUTIONS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_682s11_ques3))
+({{% resource_link d97fa4fe-dd90-f3c4-b56d-b876d1e58155 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_682s11_soln3))
+({{% resource_link 33a374db-f4f4-7717-7f51-f2e85e5693e9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,10 +70,10 @@ SOLUTIONS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_682s11_ques4))
+({{% resource_link 630ae1dd-9a6c-6af6-505b-95958cff1ab9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_682s11_soln4))
+({{% resource_link 2d08ad1d-6ec6-4f61-423a-aea1b8933b4a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
