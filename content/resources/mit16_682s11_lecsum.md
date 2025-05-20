@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outlines summarizing each lecture of the course.
-file: /ol-ocw-studio-app/courses/16-682-technology-in-transportation-spring-2011/777e5e4e7dc3e45a06956a9a9657e213_MIT16_682S11_lecsum.pdf
+file: /courses/16-682-technology-in-transportation-spring-2011/777e5e4e7dc3e45a06956a9a9657e213_MIT16_682S11_lecsum.pdf
 file_size: 548170
 file_type: application/pdf
 learning_resource_types:
